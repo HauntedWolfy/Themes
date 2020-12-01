@@ -13,7 +13,7 @@
 	
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
-	--dbackground:					url();
+	--dbackground:					url(/Background.png);
 
 	--dbackgroundsize:				cover;
 	--dblur:						unset;
